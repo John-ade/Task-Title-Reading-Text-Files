@@ -3,8 +3,6 @@
 
 # Read text from a file, and count the occurence of words in that text
 
-# Read text from a file, and count the occurence of words in that text
-
 f = open("story.txt", "r")
 print(f.read())
 
